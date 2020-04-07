@@ -1,4 +1,6 @@
-﻿<div align="center"><h1><b>AUTOMATED TIME-TABLE SCHEDULER</b><br> (Using Genetic Algorithms)</h1>
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/sdgarje/timetable) 
+
+<div align="center"><h1><b>AUTOMATED TIME-TABLE SCHEDULER</b><br> (Using Genetic Algorithms)</h1>
 
 <img alt="preview" src="/readme-images/preview.png" width="65%"></div>
 
